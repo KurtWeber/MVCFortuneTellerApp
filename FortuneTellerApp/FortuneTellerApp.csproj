@@ -200,6 +200,7 @@
       <DependentUpon>CustomerInfo.edmx</DependentUpon>
       <LastGenOutput>CustomerInfo.cs</LastGenOutput>
     </Content>
+    <Content Include="Pictures\close-up-ball-blue-bokeh.jpg" />
     <Content Include="Scripts\ai.0.22.19-build00125.js" />
     <Content Include="Scripts\ai.0.22.19-build00125.min.js" />
     <Content Include="Scripts\bootstrap.js" />

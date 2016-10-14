@@ -1,6 +1,30 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    background-image: url('../Pictures/close-up-ball-blue-bokeh.jpg');
+    background-size: cover;
+}
+.jumbotron, #jumboText{
+    background-color:transparent;
+    text-align:center;
+    font-family: 'Kaushan Script', cursive;
+    color:black;
+    margin-top:0px;
+}
+.table{
+    color:black;
+}
+#detailsStuff{
+    color:black;
+    font-family:'Comic Sans MS';
+}
+
+h2{
+    color:black;
+    font-family: 'Kaushan Script', cursive;
+}
+.table{
+    font-family:'Comic Sans MS';
 }
 
 /* Set padding to keep content from hitting the edges */
@@ -21,4 +45,8 @@ input,
 select,
 textarea {
     max-width: 280px;
+}
+
+footer{
+    color:white;
 }
